@@ -29,8 +29,8 @@
     "@vercel/ncc": "^0.25.1",
     "standard": "^16.0.3",
     "webpack": "^5.10.0",
-    "webpack-bundle-analyzer": "^4.2.0",
-    "webpack-cli": "^4.2.0"
+    "webpack-bundle-analyzer": "^4.8.0",
+    "webpack-cli": "^5.0.2"
   },
   "standard": {
     "ignore": [
